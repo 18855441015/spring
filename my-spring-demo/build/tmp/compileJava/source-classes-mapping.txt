@@ -1,0 +1,4 @@
+springproject/compoent/DemoComponent.java
+ springproject.compoent.DemoComponent
+springproject/config/FirstConfig.java
+ springproject.config.FirstConfig
